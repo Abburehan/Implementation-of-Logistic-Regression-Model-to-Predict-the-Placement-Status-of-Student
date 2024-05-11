@@ -105,8 +105,11 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![image](https://github.com/Abburehan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849336/e0748ff1-f383-4381-b2e1-5ac22c45565e)
 ![image](https://github.com/Abburehan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849336/e8e2054a-efbd-459b-ae98-fe309be0a837)
 ![image](https://github.com/Abburehan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849336/2bdf01f5-d6ee-4a3c-b59f-6cac47ec7710)
+
 ![image](https://github.com/Abburehan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849336/b9c68190-de4a-4b8d-8819-dfb0fd8fc9f7)
+
 ![image](https://github.com/Abburehan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849336/be11d0cb-0a62-4944-bc44-9194c02416d4)
+
 ![image](https://github.com/Abburehan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849336/5d921dfb-241b-4aca-a802-f4490f06416a)
 
 ## Result:
